@@ -1,0 +1,76 @@
+﻿game.exe' (Win32): 已載入 'C:\Users\Danny\Downloads\TETR\MyTetrUV\Debug\game.exe'。已載入符號。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ntdll.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel32.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\KernelBase.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\user32.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\win32u.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ddraw.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\winmm.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\mfc140d.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\msvcrt.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ucrtbase.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\gdi32.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\advapi32.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\gdi32full.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\sechost.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\msvcp_win.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\bcrypt.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\dxgi.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\dciman32.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\oleaut32.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\rpcrt4.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\combase.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ole32.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ws2_32.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\shlwapi.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\DXCore.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\imm32.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ucrtbased.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\vcruntime140d.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\msvcp140d.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\uxtheme.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.22621.3527_none_fbe8b6227808ef55\comctl32.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\msctf.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\TextShaping.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\System32\DriverStore\FileRepository\u0383113.inf_amd64_9242eb4af0e982f6\B383140\aticfx32.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\version.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\dwmapi.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已卸載 'C:\Windows\SysWOW64\dwmapi.dll'
+game.exe' (Win32): 已載入 'C:\Windows\System32\DriverStore\FileRepository\u0383113.inf_amd64_9242eb4af0e982f6\B383140\amdxn32.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\setupapi.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\amdihk32.dll'。建置的模組沒有符號。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel.appcore.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\bcryptprimitives.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\TextInputFramework.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\CoreMessaging.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\CoreUIComponents.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\WinTypes.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\cryptbase.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\oleacc.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\winmmbase.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\mciqtz32.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\quartz.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\windows.storage.dll'。找不到或無法開啟 PDB 檔案。
+game.exe' (Win32): 已卸載 'C:\Windows\SysWOW64\windows.storage.dll'
+game.exe' (Win32): 已卸載 'C:\Windows\SysWOW64\quartz.dll'
+game.exe' (Win32): 已卸載 'C:\Windows\SysWOW64\mciqtz32.dll'
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\clbcatq.dll'。找不到或無法開啟 PDB 檔案。
+onecore\internal\sdk\inc\wil\opensource/wil/winrt.h(1686)\MSCTF.dll!761D8252: (caller: 761E23D6) Exception(1) tid(7e94) 8007007E 找不到指定的模組。
+0x76E19A72 中 (於 game.exe) 擲回例外狀況: Microsoft C++ 發生例外狀況: wil::ResultException (記憶體位置 0x0019E1CC)。
+0x76E19A72 中 (於 game.exe) 擲回例外狀況: Microsoft C++ 發生例外狀況: [rethrow] (記憶體位置 0x00000000)。
+clientcore\windows\advcore\ctf\shellhandwriting\client\handwritingclient.cpp(324)\MSCTF.dll!761E27C3: (caller: 761D546D) LogHr(1) tid(7e94) 8007007E 找不到指定的模組。
+    Msg:[onecore\internal\sdk\inc\wil\opensource/wil/winrt.h(1686)\MSCTF.dll!761D8252: (caller: 761E23D6) Exception(1) tid(7e94) 8007007E 找不到指定的模組。
+] 
+0x7dc8 執行緒以返回碼 0 (0x0) 結束。
+game.exe' (Win32): 已載入 'C:\Windows\SysWOW64\dwmapi.dll'。找不到或無法開啟 PDB 檔案。
+c:\users\danny\downloads\tetr\mytetruv\source\library\gamecore.cpp(326) : atlTraceGeneral - ~CDDraw()
+c:\users\danny\downloads\tetr\mytetruv\source\library\audio.cpp(185) : atlTraceGeneral - Exit MCI command thread
+c:\users\danny\downloads\tetr\mytetruv\source\library\audio.cpp(98) : atlTraceGeneral - ~CAudio()
+0x60d0 執行緒以返回碼 3014656 (0x2e0000) 結束。
+0x5fa0 執行緒以返回碼 0 (0x0) 結束。
+0x7468 執行緒以返回碼 0 (0x0) 結束。
+0x1d28 執行緒以返回碼 0 (0x0) 結束。
+0x7330 執行緒以返回碼 0 (0x0) 結束。
+0x6638 執行緒以返回碼 0 (0x0) 結束。
+0x8a80 執行緒以返回碼 0 (0x0) 結束。
+'[31644] game.exe' 程式以返回碼 0 (0x0) 結束。
